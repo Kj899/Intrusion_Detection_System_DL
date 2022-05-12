@@ -76,5 +76,3 @@ arr[3].append('LinearDiscriminantAnalysis')
 arr[3].append('GuassianNaiveBayes') 
 
 print1(arr) 
-
-# This code is contributed by mohit kumar 
